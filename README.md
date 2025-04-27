@@ -1,10 +1,10 @@
-👋 Hi, I’m Ali
+👋 Hi, I’m Ali \ CEO **LAMROTRACKER** & **GUZAR LS** \ architect \ monotheist
 
 👀 I’m interested in web development, UI/UX design, and creative coding
 
 🌱 I’m currently learning JavaScript and TypeScript
 
-💞️ I’m looking to collaborate on open source projects, cool frontend ideas, and anything that helps me grow as a dev
+💯 I’m looking to collaborate on open source projects, cool frontend ideas, and anything that helps me grow as a dev
 
 📫 Telegram: @hachrlam
 
