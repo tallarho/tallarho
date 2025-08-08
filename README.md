@@ -1,4 +1,4 @@
-👋 Hi, I’m Ali \ Crafting architecture for the future of the web | Frontend Architect \ CEO at LAMROTRACKING and GUZAR LS, overseeing operations and strategic growth
+👋 Hi, I’m Ali \ Crafting architecture for the future of the web | Frontend Architect \ CEO at LAMRIDE and GUZAR LS, overseeing operations and strategic growth
 
 👀 I’m interested in web development, UI/UX design, and creative coding
 
